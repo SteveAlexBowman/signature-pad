@@ -1,8 +1,8 @@
-.App {
+.Sig {
   text-align: center;
 }
 
-.App-logo {
+.Sig-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+.Sig-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -24,11 +24,11 @@
   color: white;
 }
 
-.App-link {
+.Sig-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
+@keyframes Sig-logo-spin {
   from {
     transform: rotate(0deg);
   }
